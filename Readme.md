@@ -22,7 +22,7 @@ Welcome to Team Neuron's submission for the Databricks 2024 Gen AI Hackathon.
 
    Special thanks to [geopy](https://github.com/geopy/geopy) (MIT License) and [meteostat](https://github.com/meteostat/meteostat-python) (MIT License). For more information, please visit their pages.
 
-   *Note: Geopy with Nominatim is used provided free for concious use. See OpenStreetMap’s Nominatim policy [here](https://operations.osmfoundation.org/policies/nominatim/).*
+   *Note: See OpenStreetMap’s Nominatim policy for free usage. [here](https://operations.osmfoundation.org/policies/nominatim/).*
 
 - **✉️ Email Integration**: Allows email notifications directly through the tool.
 - **✅ Agent Testing**: Includes unit test steps within agent code.
