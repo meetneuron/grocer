@@ -1,4 +1,4 @@
-# 🛒 Grocer - Grocery AI Agent
+# 🥬 Grocer - Grocery AI Agent
 
 Welcome to Team Neuron's submission for the Databricks 2024 Gen AI Hackathon.
 
